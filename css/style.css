@@ -1,4 +1,4 @@
-/* body {
+body {
   background: linear-gradient(#ad3ccb, #ffffff);
   overflow: hidden;
 }
@@ -40,4 +40,4 @@ button:hover {
   border: 1px solid lightgray;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
-} */
+}
